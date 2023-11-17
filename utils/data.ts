@@ -32,6 +32,46 @@ export const tableData = [
     status: "Suspend",
     action: "Edit",
   },
+  {
+    account: "123",
+    creditReference: "CR123",
+    balance: 1000,
+    ref: "REF001",
+    status: "Suspend",
+    action: "Edit",
+  },
+  {
+    account: "123",
+    creditReference: "CR123",
+    balance: 1000,
+    ref: "REF001",
+    status: "Suspend",
+    action: "Edit",
+  },
+  {
+    account: "123",
+    creditReference: "CR123",
+    balance: 1000,
+    ref: "REF001",
+    status: "Locked",
+    action: "Edit",
+  },
+  {
+    account: "123",
+    creditReference: "CR123",
+    balance: 1000,
+    ref: "REF001",
+    status: "Locked",
+    action: "Edit",
+  },
+  {
+    account: "123",
+    creditReference: "CR123",
+    balance: 1000,
+    ref: "REF001",
+    status: "Suspend",
+    action: "Edit",
+  },
 ];
 
 export const statusOptions = ["Active", "Suspend", "Disabled", "Locked"];
